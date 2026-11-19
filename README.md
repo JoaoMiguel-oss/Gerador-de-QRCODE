@@ -22,7 +22,6 @@ Um gerador de QR Code minimalista, rápido e 100% funcional rodando direto no na
 
 ## 📸 Preview
 
-> *(Dica: Tire um print da tela do seu projeto, suba na pasta do repositório e troque o link abaixo)*
 
 <div align="center">
   <img src="qrcode.png" alt="Preview do Projeto" width="700px" />
