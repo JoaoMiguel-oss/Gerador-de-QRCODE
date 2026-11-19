@@ -2,7 +2,7 @@
 
 #  QR— Gerador de QR Code Instantâneo
 
-**Transformando links e textos em quadradinhos pretos misteriosos desde o último commit. ⚡**
+**Transformando links e textos em quadradinhos pretos misteriosos desde o último commit. **
 
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
@@ -25,7 +25,7 @@ Um gerador de QR Code minimalista, rápido e 100% funcional rodando direto no na
 > *(Dica: Tire um print da tela do seu projeto, suba na pasta do repositório e troque o link abaixo)*
 
 <div align="center">
-  <img src="https://placeholder.com" alt="Preview do Projeto" width="700px" />
+  <img src="qrcode.png" alt="Preview do Projeto" width="700px" />
 </div>
 
 ---
